@@ -1,0 +1,15 @@
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\bin\Debug\net6.0\Domain.dll
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\bin\Debug\net6.0\Domain.pdb
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\bin\Debug\net6.0\Entities.dll
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\bin\Debug\net6.0\Entities.pdb
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.dll
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\Domain.pdb
+E:\PROJETOS\API_GESTAO_PRODUTOS\API_GESTAO_PRODUTOS\Domain\obj\Debug\net6.0\ref\Domain.dll

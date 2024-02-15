@@ -1,0 +1,19 @@
+﻿namespace WebAPI.DTOs
+{
+    public class ProdutoDTO
+    {
+        public int Id { get; set; }
+
+        public string Descricao { get; set; }
+
+        public bool Ativo { get; set; }
+
+        public DateTime DataFabricacao { get; set; }
+
+        public DateTime DataValidade { get; set; }
+
+        public int FornecedorId { get; set; }
+
+        public string UserId { get; set; }
+    }
+}
