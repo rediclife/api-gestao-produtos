@@ -41,7 +41,7 @@ namespace TestApiGestaoProdutos.Test
         {
             DTOProduto produto = new DTOProduto()
             {
-                Id = 5,
+                Id = 0,
                 Descricao = "Produto Teste Unitario",
                 Ativo = true,
                 DataFabricacao = Convert.ToDateTime("2024-02-14T01:04:33"),
@@ -63,8 +63,8 @@ namespace TestApiGestaoProdutos.Test
         {
             DTOProduto produto = new DTOProduto()
             {
-                Id = 5,
-                Descricao = "Produto Teste Unitario",
+                Id = 1,
+                Descricao = "Produto Teste Unitario editar",
                 Ativo = true,
                 DataFabricacao = Convert.ToDateTime("2024-02-14T01:04:33"),
                 DataValidade = Convert.ToDateTime("2024-05-15T01:04:33"),
@@ -84,7 +84,7 @@ namespace TestApiGestaoProdutos.Test
         public void E_TestDelete()
         {
             Util util = new Util();
-            int idProduto = 5;
+            int idProduto = 1;
             var result = util.ChamaApiGet("/Produto/GetById?id=" + idProduto).Result;
 
             var listaProduto = JsonConvert.DeserializeObject<ResponseMV<DTOProduto>>(result);
