@@ -44,7 +44,7 @@ namespace TestApiGestaoProdutos.Test
             DTOFornecedor fornecedor = new DTOFornecedor()
             {
                 Id = 0,
-                Descricao = "Fornecedor Teste Unit·rio",
+                Descricao = "Fornecedor Teste Unit√°rio",
                 Cnpj = "56233333006880",
                 UserId = "5739c00e-64e3-48ee-85d9-be4d72720555"
             };
@@ -62,8 +62,8 @@ namespace TestApiGestaoProdutos.Test
         {
             DTOFornecedor fornecedor = new DTOFornecedor()
             {
-                Id = 5,
-                Descricao = "Fornecedor Teste Unit·rio Alterar",
+                Id = 1,
+                Descricao = "Fornecedor Teste Unit√°rio Alterar",
                 Cnpj = "10000000000001",
                 UserId = "5739c00e-64e3-48ee-85d9-be4d72720555"
             };
@@ -80,7 +80,7 @@ namespace TestApiGestaoProdutos.Test
         public void E_TestDelete()
         {
             Util util = new Util();
-            int idFornecedor = 5;
+            int idFornecedor = 1;
             var result = util.ChamaApiGet("/Fornecedor/GetById?id=" + idFornecedor).Result;
 
             var listaFornecedor = JsonConvert.DeserializeObject<ResponseMV<DTOFornecedor>>(result);
